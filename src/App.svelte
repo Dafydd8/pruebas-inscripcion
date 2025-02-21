@@ -3,7 +3,7 @@
 </script>
 
 <main>
-  <div style='height:100vh'></div>
+  <div style='height:150vh'></div>
   <table>
     <tr>
       <td>Manzana</td>
