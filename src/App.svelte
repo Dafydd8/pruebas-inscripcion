@@ -6,7 +6,7 @@
   <div style='height:150vh'></div>
   <table>
     <tr>
-      <td>Manzana</td>
+      <td>Manzanas</td>
       <td>Rojo</td>
     </tr>
     <tr>
