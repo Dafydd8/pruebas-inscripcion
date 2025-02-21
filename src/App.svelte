@@ -3,6 +3,7 @@
 </script>
 
 <main>
+  <div style='height:100vh'></div>
   <table>
     <tr>
       <td>Manzana</td>
